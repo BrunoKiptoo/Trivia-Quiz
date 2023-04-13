@@ -1,0 +1,47 @@
+{
+    "music": [
+      {
+        "question": "What is the capital of France?",
+        "answers": ["Paris", "Berlin", "Madrid", "London"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Who painted the Mona Lisa?",
+        "answers": ["Vincent van Gogh", "Pablo Picasso", "Leonardo da Vinci", "Salvador Dalí"],
+        "correctAnswer": 2
+      },
+      {
+        "question": "What is the highest-grossing music album of all time?",
+        "answers": ["Thriller", "Dark Side of the Moon", "Back in Black", "The Wall"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What is the best-selling female album of all time?",
+        "answers": ["21", "Like a Virgin", "Jagged Little Pill", "Come On Over"],
+        "correctAnswer": 0
+      }
+    ],
+    "videoGames": [
+      {
+        "question": "What is the best-selling video game of all time?",
+        "answers": ["Minecraft", "Tetris", "Grand Theft Auto V", "Super Mario Bros"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Who created the game 'Fortnite'?",
+        "answers": ["Epic Games", "Electronic Arts", "Ubisoft", "Activision"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Which video game franchise has the most sequels?",
+        "answers": ["FIFA", "Call of Duty", "Assassin's Creed", "Super Mario"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Which game won the Game of the Year award in 2020?",
+        "answers": ["The Last of Us Part II", "Animal Crossing: New Horizons", "Doom Eternal", "Hades"],
+        "correctAnswer": 0
+      }
+    ]
+  }
+  
